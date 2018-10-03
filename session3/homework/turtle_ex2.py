@@ -1,6 +1,5 @@
 from turtle import *
 colors = ['red', 'blue', 'brown', 'yellow', 'grey']
-colormode()
 for color in colors:
     pencolor(color)
     fillcolor(color)
